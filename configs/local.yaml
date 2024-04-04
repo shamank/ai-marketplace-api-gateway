@@ -4,5 +4,5 @@ http:
   timeout: 10s
 
 stats-service:
-  host: stats-service
+  host: localhost
   port: 9090
